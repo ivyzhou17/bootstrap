@@ -1,3 +1,8 @@
-This is my bootstrap homework
+# Bootstrap Assignment
 
-I created a simple webpage for doggy toys :dog: :tada:
+Using Bootstrap, I created a simple webpage for doggy toys :dog: :tada:
+
+## Techniques Used
+
+HTML
+CSS
